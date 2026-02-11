@@ -1,4 +1,4 @@
-# signal-web
+# product-analytics-dashboard
 
 Frontend analytics application for business and engineering users.
 
