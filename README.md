@@ -66,3 +66,14 @@ GitHub Actions runs install + production build on push/PR:
 - Semantic model design: `bi/powerbi/semantic_model.md`
 - DAX measure specs: `bi/powerbi/dax_measures.md`
 - KPI-to-visual mapping: `bi/powerbi/kpi_visual_mapping.csv`
+
+## Tableau Assets
+- Worksheet mapping: `bi/tableau/workbook_mapping.md`
+- Calculated field specs: `bi/tableau/calculated_fields.md`
+
+## Looker Assets
+- LookML model draft: `bi/looker/model.lkml`
+- View definitions: `bi/looker/views/*.view.lkml`
+
+## UI to BI Mapping
+- React component to BI semantic mapping: `docs/ui_bi_mapping.md`
