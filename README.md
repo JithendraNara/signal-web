@@ -61,3 +61,8 @@ GitHub Actions runs install + production build on push/PR:
 
 ## Stack Coverage Extension
 - Planned gap-coverage work is tracked in `STACK_COVERAGE_PLAN.md`.
+
+## Power BI Assets
+- Semantic model design: `bi/powerbi/semantic_model.md`
+- DAX measure specs: `bi/powerbi/dax_measures.md`
+- KPI-to-visual mapping: `bi/powerbi/kpi_visual_mapping.csv`

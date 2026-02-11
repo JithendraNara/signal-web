@@ -1,0 +1,7 @@
+kpi_name,source_table,measure_name,recommended_visual
+new_users,FactDailyKPI,New Users,Line Chart
+paid_conversions,FactDailyKPI,Paid Conversions,Clustered Column
+conversion_rate,FactDailyKPI,Conversion Rate,KPI Card
+net_revenue_usd,FactDailyKPI,Net Revenue USD,Line + Card
+refund_rate,FactDailyKPI,Refund Rate,KPI Card
+arpu,FactChannelPerformance,ARPU,Bar Chart
