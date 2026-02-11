@@ -26,3 +26,9 @@ npm run dev
 ```bash
 npm run build
 ```
+
+## Development Trail
+- Roadmap: `ROADMAP.md`
+- Changelog: `CHANGELOG.md`
+- Proof mapping: `PROOF.md`
+- Resume bullets: `RESUME_BULLETS.md`
