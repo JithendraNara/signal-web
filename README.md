@@ -2,6 +2,11 @@
 
 Frontend analytics application for business and engineering users.
 
+## Role Positioning
+- Primary fit: Frontend Engineer, Software Engineer, Full-Stack Engineer
+- Showcase focus: React architecture, API integration, responsive analytics UI
+- Resume mapping: see `PROOF.md` and `RESUME_BULLETS.md`
+
 ## Views
 - KPI Overview
 - Funnel + Experiments
